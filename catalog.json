@@ -13,23 +13,9 @@
         "published"
       ],
       "version" : "1.0.0"
-    },
-    {
-      "description" : "Published from Quote It app",
-      "displayName" : "The Art of War",
-      "edition" : "Lionel Giles Translation",
-      "itemCount" : 381,
-      "language" : "English",
-      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/artOfWarEnglish-1.0.0.quoteit",
-      "sourceId" : "artOfWarEnglish",
-      "tags" : [
-        "quotes",
-        "published"
-      ],
-      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-24T02:33:04Z",
+  "generatedAt" : "2026-02-24T03:04:18Z",
   "source" : "QuoteIt GitHub Catalog"
 }
