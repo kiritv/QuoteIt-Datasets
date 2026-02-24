@@ -16,6 +16,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Tao Te Ching (English)",
+      "edition" : "James Legge Translation",
+      "itemCount" : 81,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/taoTeChingEnglish-1.0.0.quoteit",
+      "sourceId" : "taoTeChingEnglish",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "The Art of War",
       "edition" : "Lionel Giles Translation",
       "itemCount" : 381,
@@ -30,6 +44,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-24T02:26:12Z",
+  "generatedAt" : "2026-02-24T02:31:13Z",
   "source" : "QuoteIt GitHub Catalog"
 }
