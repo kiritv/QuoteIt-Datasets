@@ -1,0 +1,21 @@
+{
+  "datasets" : [
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Affirmations Core",
+      "edition" : "Quote It Curated 2026",
+      "itemCount" : 40,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/affirmationsCore-1.0.0.quoteit",
+      "sourceId" : "affirmationsCore",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    }
+  ],
+  "formatVersion" : 1,
+  "generatedAt" : "2026-02-24T02:25:02Z",
+  "source" : "QuoteIt GitHub Catalog"
+}
