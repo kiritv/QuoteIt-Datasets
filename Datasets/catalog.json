@@ -1,0 +1,21 @@
+{
+  "datasets" : [
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Quotes",
+      "edition" : "Quotes Core Library",
+      "itemCount" : 0,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/Datasets\/packages\/standardQuotes-1.0.0.quoteit",
+      "sourceId" : "standardQuotes",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    }
+  ],
+  "formatVersion" : 1,
+  "generatedAt" : "2026-02-24T00:52:30Z",
+  "source" : "QuoteIt GitHub Catalog"
+}
