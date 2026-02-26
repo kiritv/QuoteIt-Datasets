@@ -44,6 +44,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Upanishads (English)",
+      "edition" : "Max Muller Translation, Sacred Books of the East, 1879",
+      "itemCount" : 301,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/upanishadsEnglish-1.0.0.quoteit",
+      "sourceId" : "upanishadsEnglish",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Walt Whitman — Leaves of Grass",
       "edition" : "1891-92 Deathbed Edition, Public Domain",
       "itemCount" : 2028,
@@ -86,6 +100,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T00:59:27Z",
+  "generatedAt" : "2026-02-26T00:59:57Z",
   "source" : "QuoteIt GitHub Catalog"
 }
