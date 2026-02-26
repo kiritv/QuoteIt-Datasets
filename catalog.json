@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Stoicism Classics",
+      "edition" : "Marcus Aurelius, Epictetus, Seneca",
+      "itemCount" : 690,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/stoicismClassics-1.0.0.quoteit",
+      "sourceId" : "stoicismClassics",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Tao Te Ching (English)",
       "edition" : "James Legge Translation",
       "itemCount" : 81,
@@ -114,6 +128,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T01:02:29Z",
+  "generatedAt" : "2026-02-26T01:03:09Z",
   "source" : "QuoteIt GitHub Catalog"
 }
