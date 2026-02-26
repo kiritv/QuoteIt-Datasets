@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Plato — Selected Dialogues",
+      "edition" : "Benjamin Jowett Translation, 1871",
+      "itemCount" : 3554,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/platoDialogues-1.0.0.quoteit",
+      "sourceId" : "platoDialogues",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Quran (Pickthall)",
       "edition" : "Pickthall Translation, 1930",
       "itemCount" : 6236,
@@ -170,6 +184,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T01:06:41Z",
+  "generatedAt" : "2026-02-26T01:07:49Z",
   "source" : "QuoteIt GitHub Catalog"
 }
