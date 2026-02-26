@@ -2,6 +2,20 @@
   "datasets" : [
     {
       "description" : "Published from Quote It app",
+      "displayName" : "40 Hadith (An-Nawawi)",
+      "edition" : "An-Nawawi's 40 Hadith, Public Domain",
+      "itemCount" : 42,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/hadithNawawi-1.0.0.quoteit",
+      "sourceId" : "hadithNawawi",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Affirmations Core",
       "edition" : "Quote It Curated 2026",
       "itemCount" : 40,
@@ -212,6 +226,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T01:16:01Z",
+  "generatedAt" : "2026-02-26T04:17:12Z",
   "source" : "QuoteIt GitHub Catalog"
 }
