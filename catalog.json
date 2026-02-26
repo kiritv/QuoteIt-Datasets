@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Tao Te Ching (English)",
+      "edition" : "James Legge Translation",
+      "itemCount" : 81,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/taoTeChingEnglish-1.0.0.quoteit",
+      "sourceId" : "taoTeChingEnglish",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "The Prophet (Kahlil Gibran)",
       "edition" : "Kahlil Gibran, 1923 (Public Domain)",
       "itemCount" : 30,
@@ -100,6 +114,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T00:59:57Z",
+  "generatedAt" : "2026-02-26T01:02:29Z",
   "source" : "QuoteIt GitHub Catalog"
 }
