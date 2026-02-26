@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "The Prophet (Kahlil Gibran)",
+      "edition" : "Kahlil Gibran, 1923 (Public Domain)",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/gibranProphet-1.0.0.quoteit",
+      "sourceId" : "gibranProphet",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Yoga Sutras of Patanjali",
       "edition" : "Charles Johnston Translation, 1912",
       "itemCount" : 195,
@@ -58,6 +72,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T00:54:41Z",
+  "generatedAt" : "2026-02-26T00:56:25Z",
   "source" : "QuoteIt GitHub Catalog"
 }
