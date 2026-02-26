@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Yoga Sutras of Patanjali",
+      "edition" : "Charles Johnston Translation, 1912",
+      "itemCount" : 195,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/yogaSutras-1.0.0.quoteit",
+      "sourceId" : "yogaSutras",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Zen Classics",
       "edition" : "Public Domain Translations, Early 20th Century",
       "itemCount" : 30,
@@ -44,6 +58,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T00:53:39Z",
+  "generatedAt" : "2026-02-26T00:54:41Z",
   "source" : "QuoteIt GitHub Catalog"
 }
