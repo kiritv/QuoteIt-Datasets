@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Riyad as-Salihin",
+      "edition" : "Imam An-Nawawi, Gardens of the Righteous",
+      "itemCount" : 50,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/ryadSalihin-1.0.0.quoteit",
+      "sourceId" : "ryadSalihin",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Saadi — Gulistan (Rose Garden)",
       "edition" : "James Ross Translation, 1823",
       "itemCount" : 36,
@@ -142,6 +156,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T01:04:54Z",
+  "generatedAt" : "2026-02-26T01:05:22Z",
   "source" : "QuoteIt GitHub Catalog"
 }
