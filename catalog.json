@@ -86,6 +86,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Pali Canon Suttas",
+      "edition" : "Rhys Davids & Woodward, Pali Text Society, 1881-1925",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/paliSuttas-1.0.0.quoteit",
+      "sourceId" : "paliSuttas",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Plato — Selected Dialogues",
       "edition" : "Benjamin Jowett Translation, 1871",
       "itemCount" : 3554,
@@ -240,6 +254,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T04:18:18Z",
+  "generatedAt" : "2026-02-26T04:19:20Z",
   "source" : "QuoteIt GitHub Catalog"
 }
