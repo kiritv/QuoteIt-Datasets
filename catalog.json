@@ -30,6 +30,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Quran (Pickthall)",
+      "edition" : "Pickthall Translation, 1930",
+      "itemCount" : 6236,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/quranPickthall-1.0.0.quoteit",
+      "sourceId" : "quranPickthall",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Riyad as-Salihin",
       "edition" : "Imam An-Nawawi, Gardens of the Righteous",
       "itemCount" : 50,
@@ -156,6 +170,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-26T01:05:22Z",
+  "generatedAt" : "2026-02-26T01:06:41Z",
   "source" : "QuoteIt GitHub Catalog"
 }
