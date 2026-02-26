@@ -27,9 +27,23 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Zen Classics",
+      "edition" : "Public Domain Translations, Early 20th Century",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/zenTexts-1.0.0.quoteit",
+      "sourceId" : "zenTexts",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-24T18:39:50Z",
+  "generatedAt" : "2026-02-26T00:53:39Z",
   "source" : "QuoteIt GitHub Catalog"
 }
