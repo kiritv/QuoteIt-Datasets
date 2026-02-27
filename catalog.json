@@ -15,6 +15,20 @@
       "version" : "1.0.0"
     },
     {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Affirmations Core",
+      "edition" : "Quote It Curated 2026",
+      "itemCount" : 40,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/affirmationsCore-1.0.0.quoteit",
+      "sourceId" : "affirmationsCore",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
       "description" : "Published from Quote It app",
       "displayName" : "African Proverbs",
       "edition" : "Public Domain Collection",
@@ -55,9 +69,429 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Bhagavad Gita",
+      "edition" : "Bhagavad Gita Sanskrit (18 Chapters)",
+      "itemCount" : 701,
+      "language" : "Sanskrit",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bhagavadGita-1.0.0.quoteit",
+      "sourceId" : "bhagavadGita",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Bhagavad Gita (Romanized Sanskrit)",
+      "edition" : "Bhagavad Gita Romanized (18 Chapters)",
+      "itemCount" : 700,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bhagavadGitaRomanized-1.0.0.quoteit",
+      "sourceId" : "bhagavadGitaRomanized",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Bible (KJV)",
+      "edition" : "King James Version",
+      "itemCount" : 31100,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bibleKjv-1.0.0.quoteit",
+      "sourceId" : "bibleKjv",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Book of Five Rings (Musashi)",
+      "edition" : "Public Domain Translation",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bookOfFiveRings-1.0.0.quoteit",
+      "sourceId" : "bookOfFiveRings",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Dhammapada (English)",
+      "edition" : "F. Max Muller Translation",
+      "itemCount" : 423,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/dhammapadaEnglish-1.0.0.quoteit",
+      "sourceId" : "dhammapadaEnglish",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Emily Dickinson — Poems",
+      "edition" : "1890 First Edition, Public Domain",
+      "itemCount" : 1255,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/dickinsonPoems-1.0.0.quoteit",
+      "sourceId" : "dickinsonPoems",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Hafiz — Divan",
+      "edition" : "H. Wilberforce Clarke Translation, 1891",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/hafizDivan-1.0.0.quoteit",
+      "sourceId" : "hafizDivan",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Haiku Masters (Basho, Issa, Buson)",
+      "edition" : "Public Domain Translations, Early 20th Century",
+      "itemCount" : 50,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/haikuMasters-1.0.0.quoteit",
+      "sourceId" : "haikuMasters",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Imitation of Christ (Thomas a Kempis)",
+      "edition" : "William Benham Translation, 1874",
+      "itemCount" : 550,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/imitationOfChrist-1.0.0.quoteit",
+      "sourceId" : "imitationOfChrist",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Life Situation Packs",
+      "edition" : "Life Situation Pack",
+      "itemCount" : 895,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/lifeSituationPacks-1.0.0.quoteit",
+      "sourceId" : "lifeSituationPacks",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Mencius",
+      "edition" : "James Legge Translation, 1861",
+      "itemCount" : 31,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/mencius-1.0.0.quoteit",
+      "sourceId" : "mencius",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Nietzsche — Selected Works",
+      "edition" : "Common & Zimmern Translations, 1896-1910",
+      "itemCount" : 3905,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/nietzscheWorks-1.0.0.quoteit",
+      "sourceId" : "nietzscheWorks",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Pali Canon Suttas",
+      "edition" : "Rhys Davids & Woodward, Pali Text Society, 1881-1925",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/paliSuttas-1.0.0.quoteit",
+      "sourceId" : "paliSuttas",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Pirkei Avot (Ethics of the Fathers)",
+      "edition" : "Public Domain Translation",
+      "itemCount" : 41,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/pirkeiAvot-1.0.0.quoteit",
+      "sourceId" : "pirkeiAvot",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Plato — Selected Dialogues",
+      "edition" : "Benjamin Jowett Translation, 1871",
+      "itemCount" : 3554,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/platoDialogues-1.0.0.quoteit",
+      "sourceId" : "platoDialogues",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Proverbs",
+      "edition" : "Public Domain Collection",
+      "itemCount" : 1880,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/worldProverbs-1.0.0.quoteit",
+      "sourceId" : "worldProverbs",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Quran (Pickthall)",
+      "edition" : "Pickthall Translation, 1930",
+      "itemCount" : 6236,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/quranPickthall-1.0.0.quoteit",
+      "sourceId" : "quranPickthall",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Riyad as-Salihin",
+      "edition" : "Imam An-Nawawi, Gardens of the Righteous",
+      "itemCount" : 50,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/ryadSalihin-1.0.0.quoteit",
+      "sourceId" : "ryadSalihin",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Rubaiyat of Omar Khayyam",
+      "edition" : "Edward FitzGerald 5th Edition, 1889",
+      "itemCount" : 213,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/khayyamRubaiyat-1.0.0.quoteit",
+      "sourceId" : "khayyamRubaiyat",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Rumi — Masnavi",
+      "edition" : "E.H. Whinfield Abridged Translation, 1898",
+      "itemCount" : 70,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/rumiMasnavi-1.0.0.quoteit",
+      "sourceId" : "rumiMasnavi",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Saadi — Gulistan (Rose Garden)",
+      "edition" : "James Ross Translation, 1823",
+      "itemCount" : 36,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/saadiGulistan-1.0.0.quoteit",
+      "sourceId" : "saadiGulistan",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Shakespeare — Sonnets & Plays",
+      "edition" : "Public Domain Complete Works",
+      "itemCount" : 101,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/shakespeareWorks-1.0.0.quoteit",
+      "sourceId" : "shakespeareWorks",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Stoicism Classics",
+      "edition" : "Marcus Aurelius, Epictetus, Seneca",
+      "itemCount" : 690,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/stoicismClassics-1.0.0.quoteit",
+      "sourceId" : "stoicismClassics",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Tao Te Ching (English)",
+      "edition" : "James Legge Translation",
+      "itemCount" : 81,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/taoTeChingEnglish-1.0.0.quoteit",
+      "sourceId" : "taoTeChingEnglish",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "The Art of War",
+      "edition" : "Lionel Giles Translation",
+      "itemCount" : 381,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/artOfWarEnglish-1.0.0.quoteit",
+      "sourceId" : "artOfWarEnglish",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "The Prophet (Kahlil Gibran)",
+      "edition" : "Kahlil Gibran, 1923 (Public Domain)",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/gibranProphet-1.0.0.quoteit",
+      "sourceId" : "gibranProphet",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Upanishads (English)",
+      "edition" : "Max Muller Translation, Sacred Books of the East, 1879",
+      "itemCount" : 301,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/upanishadsEnglish-1.0.0.quoteit",
+      "sourceId" : "upanishadsEnglish",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Walt Whitman — Leaves of Grass",
+      "edition" : "1891-92 Deathbed Edition, Public Domain",
+      "itemCount" : 2028,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/whitmanLeaves-1.0.0.quoteit",
+      "sourceId" : "whitmanLeaves",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Yoga Sutras of Patanjali",
+      "edition" : "Charles Johnston Translation, 1912",
+      "itemCount" : 195,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/yogaSutras-1.0.0.quoteit",
+      "sourceId" : "yogaSutras",
+      "tags" : [
+        "scripture",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Recovered from packages folder sync",
+      "displayName" : "Zen Classics",
+      "edition" : "Public Domain Translations, Early 20th Century",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/zenTexts-1.0.0.quoteit",
+      "sourceId" : "zenTexts",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:46:55Z",
+  "generatedAt" : "2026-02-27T05:14:15Z",
   "source" : "QuoteIt GitHub Catalog"
 }
