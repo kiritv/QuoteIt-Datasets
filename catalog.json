@@ -13,9 +13,23 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Stoicism Classics",
+      "edition" : "Marcus Aurelius, Epictetus, Seneca",
+      "itemCount" : 690,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/stoicismClassics-1.0.0.quoteit",
+      "sourceId" : "stoicismClassics",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:32:57Z",
+  "generatedAt" : "2026-02-27T04:33:48Z",
   "source" : "QuoteIt GitHub Catalog"
 }
