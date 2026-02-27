@@ -7,7 +7,9 @@
       "itemCount" : 42,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/hadithNawawi-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "hadithNawawi",
+      "subcategory" : "Islamic",
       "tags" : [
         "quotes",
         "published"
@@ -21,7 +23,9 @@
       "itemCount" : 40,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/affirmationsCore-1.0.0.quoteit",
+      "primaryCategory" : "Practical Life & Wellbeing",
       "sourceId" : "affirmationsCore",
+      "subcategory" : "Affirmations",
       "tags" : [
         "quotes",
         "published"
@@ -35,7 +39,9 @@
       "itemCount" : 50,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/africanProverbs-1.0.0.quoteit",
+      "primaryCategory" : "Proverbs & Folk Wisdom",
       "sourceId" : "africanProverbs",
+      "subcategory" : "African",
       "tags" : [
         "quotes",
         "published"
@@ -49,7 +55,9 @@
       "itemCount" : 370,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/confuciusAnalects-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "confuciusAnalects",
+      "subcategory" : "Confucian",
       "tags" : [
         "quotes",
         "published"
@@ -63,7 +71,9 @@
       "itemCount" : 1739,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/aristotleEthics-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "aristotleEthics",
+      "subcategory" : "Ancient Greek",
       "tags" : [
         "quotes",
         "published"
@@ -77,7 +87,9 @@
       "itemCount" : 701,
       "language" : "Sanskrit",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bhagavadGita-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "bhagavadGita",
+      "subcategory" : "Hindu",
       "tags" : [
         "scripture",
         "published"
@@ -91,7 +103,9 @@
       "itemCount" : 700,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bhagavadGitaRomanized-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "bhagavadGitaRomanized",
+      "subcategory" : "Hindu",
       "tags" : [
         "scripture",
         "published"
@@ -105,7 +119,9 @@
       "itemCount" : 31100,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bibleKjv-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "bibleKjv",
+      "subcategory" : "Christian",
       "tags" : [
         "scripture",
         "published"
@@ -119,7 +135,9 @@
       "itemCount" : 30,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bookOfFiveRings-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "bookOfFiveRings",
+      "subcategory" : "Strategy",
       "tags" : [
         "quotes",
         "published"
@@ -133,7 +151,9 @@
       "itemCount" : 423,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/dhammapadaEnglish-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "dhammapadaEnglish",
+      "subcategory" : "Buddhist",
       "tags" : [
         "scripture",
         "published"
@@ -147,7 +167,9 @@
       "itemCount" : 1255,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/dickinsonPoems-1.0.0.quoteit",
+      "primaryCategory" : "Poetry & Literature",
       "sourceId" : "dickinsonPoems",
+      "subcategory" : "Poetry",
       "tags" : [
         "quotes",
         "published"
@@ -161,7 +183,9 @@
       "itemCount" : 30,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/hafizDivan-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "hafizDivan",
+      "subcategory" : "Islamic",
       "tags" : [
         "quotes",
         "published"
@@ -175,7 +199,9 @@
       "itemCount" : 50,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/haikuMasters-1.0.0.quoteit",
+      "primaryCategory" : "Poetry & Literature",
       "sourceId" : "haikuMasters",
+      "subcategory" : "Haiku",
       "tags" : [
         "quotes",
         "published"
@@ -189,7 +215,9 @@
       "itemCount" : 550,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/imitationOfChrist-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "imitationOfChrist",
+      "subcategory" : "Christian",
       "tags" : [
         "quotes",
         "published"
@@ -203,7 +231,9 @@
       "itemCount" : 895,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/lifeSituationPacks-1.0.0.quoteit",
+      "primaryCategory" : "Practical Life & Wellbeing",
       "sourceId" : "lifeSituationPacks",
+      "subcategory" : "Life Situations",
       "tags" : [
         "quotes",
         "published"
@@ -217,7 +247,9 @@
       "itemCount" : 31,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/mencius-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "mencius",
+      "subcategory" : "Confucian",
       "tags" : [
         "quotes",
         "published"
@@ -231,7 +263,9 @@
       "itemCount" : 3905,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/nietzscheWorks-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "nietzscheWorks",
+      "subcategory" : "Modern Philosophy",
       "tags" : [
         "quotes",
         "published"
@@ -245,7 +279,9 @@
       "itemCount" : 30,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/paliSuttas-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "paliSuttas",
+      "subcategory" : "Buddhist",
       "tags" : [
         "scripture",
         "published"
@@ -259,7 +295,9 @@
       "itemCount" : 41,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/pirkeiAvot-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "pirkeiAvot",
+      "subcategory" : "Jewish",
       "tags" : [
         "scripture",
         "published"
@@ -273,7 +311,9 @@
       "itemCount" : 3554,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/platoDialogues-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "platoDialogues",
+      "subcategory" : "Ancient Greek",
       "tags" : [
         "quotes",
         "published"
@@ -287,7 +327,9 @@
       "itemCount" : 1880,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/worldProverbs-1.0.0.quoteit",
+      "primaryCategory" : "Proverbs & Folk Wisdom",
       "sourceId" : "worldProverbs",
+      "subcategory" : "Global",
       "tags" : [
         "quotes",
         "published"
@@ -301,7 +343,9 @@
       "itemCount" : 6236,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/quranPickthall-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "quranPickthall",
+      "subcategory" : "Islamic",
       "tags" : [
         "scripture",
         "published"
@@ -315,7 +359,9 @@
       "itemCount" : 50,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/ryadSalihin-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "ryadSalihin",
+      "subcategory" : "Islamic",
       "tags" : [
         "quotes",
         "published"
@@ -329,7 +375,9 @@
       "itemCount" : 213,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/khayyamRubaiyat-1.0.0.quoteit",
+      "primaryCategory" : "Poetry & Literature",
       "sourceId" : "khayyamRubaiyat",
+      "subcategory" : "Poetry",
       "tags" : [
         "quotes",
         "published"
@@ -343,7 +391,9 @@
       "itemCount" : 70,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/rumiMasnavi-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "rumiMasnavi",
+      "subcategory" : "Islamic",
       "tags" : [
         "quotes",
         "published"
@@ -357,7 +407,9 @@
       "itemCount" : 36,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/saadiGulistan-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "saadiGulistan",
+      "subcategory" : "Islamic",
       "tags" : [
         "quotes",
         "published"
@@ -371,7 +423,9 @@
       "itemCount" : 101,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/shakespeareWorks-1.0.0.quoteit",
+      "primaryCategory" : "Poetry & Literature",
       "sourceId" : "shakespeareWorks",
+      "subcategory" : "Classics",
       "tags" : [
         "quotes",
         "published"
@@ -385,7 +439,9 @@
       "itemCount" : 690,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/stoicismClassics-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "stoicismClassics",
+      "subcategory" : "Stoicism",
       "tags" : [
         "quotes",
         "published"
@@ -399,7 +455,9 @@
       "itemCount" : 81,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/taoTeChingEnglish-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "taoTeChingEnglish",
+      "subcategory" : "Taoist",
       "tags" : [
         "scripture",
         "published"
@@ -413,7 +471,9 @@
       "itemCount" : 381,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/artOfWarEnglish-1.0.0.quoteit",
+      "primaryCategory" : "Philosophy & Thought",
       "sourceId" : "artOfWarEnglish",
+      "subcategory" : "Strategy",
       "tags" : [
         "quotes",
         "published"
@@ -427,7 +487,9 @@
       "itemCount" : 30,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/gibranProphet-1.0.0.quoteit",
+      "primaryCategory" : "Poetry & Literature",
       "sourceId" : "gibranProphet",
+      "subcategory" : "Spiritual Literature",
       "tags" : [
         "quotes",
         "published"
@@ -441,7 +503,9 @@
       "itemCount" : 301,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/upanishadsEnglish-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "upanishadsEnglish",
+      "subcategory" : "Hindu",
       "tags" : [
         "scripture",
         "published"
@@ -455,7 +519,9 @@
       "itemCount" : 2028,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/whitmanLeaves-1.0.0.quoteit",
+      "primaryCategory" : "Poetry & Literature",
       "sourceId" : "whitmanLeaves",
+      "subcategory" : "Poetry",
       "tags" : [
         "quotes",
         "published"
@@ -469,7 +535,9 @@
       "itemCount" : 195,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/yogaSutras-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "yogaSutras",
+      "subcategory" : "Hindu",
       "tags" : [
         "scripture",
         "published"
@@ -483,7 +551,9 @@
       "itemCount" : 30,
       "language" : "English",
       "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/zenTexts-1.0.0.quoteit",
+      "primaryCategory" : "Faith & Devotion",
       "sourceId" : "zenTexts",
+      "subcategory" : "Buddhist",
       "tags" : [
         "quotes",
         "published"
@@ -492,6 +562,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T05:14:15Z",
+  "generatedAt" : "2026-02-27T05:23:00Z",
   "source" : "QuoteIt GitHub Catalog"
 }
