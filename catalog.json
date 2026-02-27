@@ -1,8 +1,21 @@
 {
   "datasets" : [
-
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Book of Five Rings (Musashi)",
+      "edition" : "Public Domain Translation",
+      "itemCount" : 30,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/bookOfFiveRings-1.0.0.quoteit",
+      "sourceId" : "bookOfFiveRings",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:24:39Z",
+  "generatedAt" : "2026-02-27T04:25:14Z",
   "source" : "QuoteIt GitHub Catalog"
 }
