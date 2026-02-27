@@ -41,9 +41,23 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Aristotle — Ethics & Politics",
+      "edition" : "Ross & Welldon Translations, 1890s-1920s",
+      "itemCount" : 1739,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/aristotleEthics-1.0.0.quoteit",
+      "sourceId" : "aristotleEthics",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:46:18Z",
+  "generatedAt" : "2026-02-27T04:46:55Z",
   "source" : "QuoteIt GitHub Catalog"
 }
