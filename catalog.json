@@ -156,6 +156,20 @@
     },
     {
       "description" : "Published from Quote It app",
+      "displayName" : "Rumi — Masnavi",
+      "edition" : "E.H. Whinfield Abridged Translation, 1898",
+      "itemCount" : 70,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/rumiMasnavi-1.0.0.quoteit",
+      "sourceId" : "rumiMasnavi",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
       "displayName" : "Saadi — Gulistan (Rose Garden)",
       "edition" : "James Ross Translation, 1823",
       "itemCount" : 36,
@@ -268,6 +282,6 @@
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:02:33Z",
+  "generatedAt" : "2026-02-27T04:02:56Z",
   "source" : "QuoteIt GitHub Catalog"
 }
