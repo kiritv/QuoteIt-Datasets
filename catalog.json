@@ -13,9 +13,23 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Life Situation Packs",
+      "edition" : "Life Situation Pack",
+      "itemCount" : 895,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/lifeSituationPacks-1.0.0.quoteit",
+      "sourceId" : "lifeSituationPacks",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:18:59Z",
+  "generatedAt" : "2026-02-27T04:19:20Z",
   "source" : "QuoteIt GitHub Catalog"
 }
