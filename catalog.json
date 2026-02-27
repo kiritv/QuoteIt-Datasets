@@ -13,9 +13,23 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "African Proverbs",
+      "edition" : "Public Domain Collection",
+      "itemCount" : 50,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/africanProverbs-1.0.0.quoteit",
+      "sourceId" : "africanProverbs",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:43:24Z",
+  "generatedAt" : "2026-02-27T04:44:24Z",
   "source" : "QuoteIt GitHub Catalog"
 }
