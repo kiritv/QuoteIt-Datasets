@@ -27,9 +27,23 @@
         "published"
       ],
       "version" : "1.0.0"
+    },
+    {
+      "description" : "Published from Quote It app",
+      "displayName" : "Analects of Confucius",
+      "edition" : "James Legge Translation, 1861",
+      "itemCount" : 370,
+      "language" : "English",
+      "packageURL" : "https:\/\/raw.githubusercontent.com\/kiritv\/QuoteIt-Datasets\/main\/packages\/confuciusAnalects-1.0.0.quoteit",
+      "sourceId" : "confuciusAnalects",
+      "tags" : [
+        "quotes",
+        "published"
+      ],
+      "version" : "1.0.0"
     }
   ],
   "formatVersion" : 1,
-  "generatedAt" : "2026-02-27T04:44:24Z",
+  "generatedAt" : "2026-02-27T04:46:18Z",
   "source" : "QuoteIt GitHub Catalog"
 }
